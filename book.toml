@@ -1,6 +1,6 @@
 [book]
 authors = ["Weiwei"]
-language = "en"
+language = "zh_CN"
 multilingual = false
 src = "src"
 title = "古诗外译集"
