@@ -4,3 +4,7 @@ language = "zh_CN"
 multilingual = false
 src = "src"
 title = "古诗外译集"
+
+[output.html]
+additional-css = ["assets/custom.css"]
+additional-js = ["assets/fzf.umd.js", "assets/elasticlunr.js"]
