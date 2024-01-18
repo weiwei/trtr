@@ -27,6 +27,15 @@ But the brook turns aside,
 Mountains block my view,
 My beloved is out of sight.
 
+自从和你分别之后，
+我陷入深深的悲伤
+日夜思念你。
+靠在栏杆上
+我弹掉白色的柳絮；
+但小溪却转向一边，
+群山挡住了我的视线
+我的爱人已经看不见了。
+
 
 ## 寿阳曲 洞庭秋月 马致远
 
@@ -88,6 +97,16 @@ Disturbs the reunion with her lover while dreaming.
 Who's there, so annoying? 
 Pooh, it's you here shouting!
 
+她那蓬松的发髻就像一片飞翔的云，
+她和她的爱情鸟被子芳香四溢，
+春天多愁善感，她的房间半开着，正在睡觉。
+柳絮自由舞动，
+漂亮女仆欢呼雀跃，
+“雪花飘舞，吉兆”突然大喊一声，
+扰乱了梦中与爱人的团聚。
+是谁啊，这么烦人？
+呸，原来是你在喊啊！
+
 ## 凭阑人 寄征衣 姚燧
 
 欲寄君衣君不还,
@@ -103,3 +122,8 @@ You'll not return if I send the coat,
 But if I don't, you'll feel cold. 
 Send or not? 
 It tortures me a lot.
+
+如果我把外套寄出去你就不会回来，
+但如果我不这样做，你又会感到冷。
+送还是不送？
+这让我很难办。
