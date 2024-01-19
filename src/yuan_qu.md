@@ -55,6 +55,12 @@ Hurt me so much, you, a fickle-hearted guy!
 I'll keep telling your fickleness to all and ask why,
 The the Till your ears are burning and eat humble pie.
 
+自从我们分别之后，
+听到你的消息我气喘吁吁
+你这个善变的家伙，太伤我了！
+我会不断向所有人诉说你的善变，并问为什么，
+直到你的耳朵烧起来，吃卑微的馅饼。
+
 ## 庆东原 韩信 薛昂夫
 
 已挂了齐王印，
@@ -74,6 +80,15 @@ Instead of taking preventive measures,
 He arrogated all powers to himself. 
 Unaware since ancient times emperors when in time of peace, 
 To their doyens they begin to show their teeth.
+
+在齐国的权力中心，
+韩信拒绝效仿范蠡。
+张良宁肯退休，也不肯做大官，
+但韩信却开了一个幼稚的恶作剧，
+与其采取预防措施，
+他把所有的权力都据为己有。
+自古帝王太平之时不知，
+对于他们的前辈，他们开始露出牙齿。
 
 ## 山坡羊·春睡 王实甫
 
