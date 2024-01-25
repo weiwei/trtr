@@ -1,5 +1,6 @@
 # Those Who Died for the Kingdom
 
+```
 Armor of rhino hide
 swinging halberds of Wu,
 Wheel hub scrapes on wheel hub,
@@ -37,7 +38,8 @@ When your bodies died,
 your spirits found their power.
 Your souls are now heroes
 in another world.
-
+```
+```
 犀牛皮铠甲
 挥舞着吴戟，
 轮毂刮擦轮毂，
@@ -72,6 +74,7 @@ in another world.
 以不可战神的的荣誉，
 坚守到最后一口呼吸
 当身体死去，
-你们的精神获得了权柄。
+你们的精神获得了威信。
 你的灵魂现在是英雄
 在另一个世界中。
+```
