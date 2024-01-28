@@ -84,3 +84,19 @@ The Milky Way with stars so bright
 Sinks down into the sea in sleep.
 How happy I feel at this sight!
 I croon this poem in delight.
+
+
+我是来看无边无际的大海的
+从东岸的石山出发。
+它的水有节奏地滚动，
+岛屿矗立在它的咆哮之中。
+树上树，从峰到峰；
+远远望去，草地上的草都郁郁葱葱。
+秋风吹来凄凉；
+滔天巨浪高高涌起。
+白天有太阳，晚上有月亮
+仿佛从深处升起。
+银河系的星星如此明亮
+沉入海中沉睡。
+看到这一幕我感到多么幸福啊！
+我高兴地哼唱这首诗。

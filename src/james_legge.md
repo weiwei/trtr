@@ -113,3 +113,13 @@ On the mountains is the lofty pine;
 In the marshes is the spreading water-polygonum.
 I do not see Tsze-ch'ung,
 But I see this artful boy.
+
+山上有桑树；
+沼泽地里的莲花。
+我没有看到子太，
+但我看到这个疯狂的家伙。
+
+山上有苍松；
+沼泽地里长满了水蓼。
+不见子充，
+但我看到了这个狡猾的男孩。
