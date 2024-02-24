@@ -2,7 +2,7 @@
 许渊冲 许明
 
 长生殿 丑宫女
-
+```
 自小生来貌天然，花面；
 宫娥队里我为先，扫殿。
 忽逢小监在阶前，胡缠；
@@ -20,7 +20,8 @@
 登时发到骊山，派到温泉殿中承值。
 昨日銮舆临幸，同杨娘娘在华清驻跸。
 传旨要来共浴汤池，只索打扫铺陈收拾。
-
+```
+```
 Funny Maid: I was born with natural grace,
 Though with a pockmarked face.
 I am the first maid of honor, 
@@ -51,7 +52,8 @@ The emperor came with Lady Yang yesterday,
 And by the Flower-Clear Pool they would stay 
 They are going to take a bath today,
 And I am ordered to sweep the pathway
-
+```
+```
 搞笑女仆：我天生优雅，
 虽然满脸麻子。
 我是第一伴娘
@@ -82,3 +84,4 @@ And I am ordered to sweep the pathway
 他们会停留在花清潭边
 今天他们要去洗澡
 我被命令去扫路
+```
