@@ -1,7 +1,7 @@
 理雅各(James Legge)是十九世纪的英国汉学家，牛津大学教授。他的翻译以先秦作品为主，而且学者气极其浓厚。比如他翻译诗经，除了翻译诗歌以外，更是增加了数倍乃至数十倍倍英文诗歌篇幅的详细注解，里边解释了每个汉字和词语的意思，并引用了中国古代学者的注释。读理雅各的翻译，感觉像是在研究中国文化。
 
 限于篇幅，这里只摘取理雅各的几篇翻译，注释部分就略过了。
-
+```
 关关叫的鱼鹰，
 在河中小岛上。
 谦虚、腼腆、贤惠、年轻的女士：——
@@ -25,7 +25,8 @@
 在左边，在右边，我们烹饪并呈现它。
 谦虚、隐居、贤惠、年轻的女士：——
 让我们用钟声和鼓声来表达我们对她的喜悦。
-
+```
+```
 Kwan-kwan go the ospreys,
 On the islet in the river.
 The modest, retiring, virtuous, young lady: --
@@ -49,9 +50,10 @@ Here long, there short, is the duckweed;
 On the left, on the right, we cook and present it.
 The modest, retiring, virtuous, young lady: --
 With bells and drums let us show our delight in her.
-
+```
 --
 
+```
 多利奇生长，覆盖了荆棘树；
 空心菜遍布废物各处。
 我敬佩的那个人已经不在了； --
@@ -76,7 +78,8 @@ With bells and drums let us show our delight in her.
 度过[漫长]的夏日[我应该独自一人吗]，
 直到一百年过去，
 当我回家到他的房间时。
-
+```
+```
 The dolichos grows, covering the thorn trees;
 The convolvulus spreads all over the waste.
 The man of my admiration is no more here; --
@@ -101,9 +104,11 @@ Through the [long] nights of winter,
 Through the [long] days of summer  [shall I be alone],
 Till the lapse of a hundred years,
 When I shall go home to his chamber.
+```
 
 山有扶苏
 
+```
 On the mountains is the mulberry tree;
 In the marshes in the lotus flower.
 I do not see Tsze-too,
@@ -113,7 +118,9 @@ On the mountains is the lofty pine;
 In the marshes is the spreading water-polygonum.
 I do not see Tsze-ch'ung,
 But I see this artful boy.
+```
 
+```
 山上有桑树；
 沼泽地里的莲花。
 我没有看到子太，
@@ -123,3 +130,4 @@ But I see this artful boy.
 沼泽地里长满了水蓼。
 不见子充，
 但我看到了这个狡猾的男孩。
+```
