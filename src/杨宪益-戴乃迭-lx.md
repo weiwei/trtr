@@ -6,6 +6,7 @@
 戴乃迭（1919年-1999年），英国人，杨宪益夫人。著名翻译家，中外文化交流活动家。
 杨宪益、戴乃迭夫妇联英译了多部中国经典文学作品，在国内外享有盛誉
 
+```
 哈哈爱兮爱乎爱乎！
 爱青剑兮一个仇人自屠。
 夥颐连翩兮多少一夫。
@@ -40,7 +41,8 @@
 为了一个人的头，让鲜血流尽吧！
 血液——让它流动！
 唱嘿，唱嗬！
-
+```
+```
 Sing hey, sing ho!
 The single one who loved the sword.
 Has taken death as his reward.
@@ -57,3 +59,4 @@ I only use one single head,
 For one man's head let blood be shed!
 Blood - let it flow!
 Sing hey, sing ho!
+```
